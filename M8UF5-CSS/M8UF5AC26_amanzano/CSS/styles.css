@@ -1,0 +1,101 @@
+#all {
+    width: 400px;
+    height: 280px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -200px;
+}
+
+
+body {
+    color: white;
+    background-color: black;
+    padding: 200px;
+}
+#a {
+    background-color: red;
+    width: 200px;
+    height: 70px;
+    margin: 0px;
+    float: left;
+    
+}
+#b {
+    background-color: blue;
+    width: 200px;
+    height: 70px;
+    margin: 0px;
+    float: right;
+}
+#c {
+    background-color: yellow;
+    width: 100px;
+    height: 140px;
+    margin: 0px;
+    float: inline-start;
+}
+#d {
+    background-color: indigo;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    float: left;
+}
+#e {
+    background-color: darkblue;
+    width: 200px;
+    height: 70px;
+    margin: 0px;
+    float: right;
+}
+#f {
+    background-color: deeppink;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    float: left;
+}
+#g {
+    background-color: yellow;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    display: inline-block;
+}
+#h {
+    background-color: white;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    float: right;
+}
+#i {
+    background-color: mediumpurple;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    float: inline-start;
+}
+#j {
+    background-color: brown;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    float: left;
+}
+#k {
+    background-color: red;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    display: inline-block;
+}
+#l {
+    background-color: saddlebrown;
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    float: right;
+}

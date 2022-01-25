@@ -1,0 +1,110 @@
+h1 {
+    justify-content: center;
+    text-align: center;
+}
+body {
+    margin: 0px;
+}
+header {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(71, 69, 69);
+    display: flex;
+    flex-direction: row;
+    height: 42px;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+.nav > li {
+    display: inline-block;
+}
+.nav li a {
+    background-color: rgb(71, 69, 69);
+    border: solid 1px black;
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    height: 40px;
+    margin: -3px;
+}
+#lago {
+    width: 100%;
+}
+h2 {
+    text-align: center;
+    color: royalblue;
+    font-family: 'Alegreya Sans', sans-serif;
+    margin-top: 40px;
+}
+.fotos, #text_baix {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    margin: 0px;
+    width: 100%;
+}
+.fotos div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    margin: 0px;
+    width: 100%;
+    padding: 10px 10px;
+}
+.fotos div:hover {
+    opacity: 70%;
+}
+.fotos div img {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+#text_baix {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#texto {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 45%;
+}
+#boton {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    border: none;
+    border-radius: 5px;
+    width: 110px;
+    height: 45px;
+}
+#boton:hover {
+    opacity: 70%;
+}
+#boton a {
+    text-decoration: none;
+    color: white;
+}
+hr {
+    color: rgb(156, 156, 156);
+    margin-top: 20px;
+}
+footer {
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+}
+form {
+    margin-left: 10px;
+}

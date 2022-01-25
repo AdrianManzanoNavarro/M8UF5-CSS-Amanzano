@@ -1,0 +1,147 @@
+.box1 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 2px solid rgb(0, 122, 0);
+    text-align: center;
+}
+.box2 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 2px solid rgb(0, 122, 0);
+    text-align: center;
+}
+.box3 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 2px solid rgb(0, 122, 0);
+    text-align: center;
+}
+.box4 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 2px solid rgb(0, 122, 0);
+    text-align: center;
+}
+.box5 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 2px solid rgb(0, 122, 0);
+    text-align: center;
+}
+.box6 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 2px solid rgb(0, 122, 0);
+    text-align: center;
+}
+.box7 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 2px solid rgb(0, 122, 0);
+    text-align: center;
+}
+.box8 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 2px solid rgb(0, 122, 0);
+    text-align: center;
+}
+.box9 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 2px solid rgb(0, 122, 0);
+    text-align: center;
+}
+#a {
+    border: 5px solid rgb(16, 187, 16);
+    padding: 13px;
+    margin: 0px;
+}
+#b {
+    border: 2px dashed rgb(17, 145, 17);
+    padding: 13px;
+    margin: 0px;
+}
+#c {
+    border: 2px dashed rgb(17, 145, 17);
+    padding: 13px;
+    margin: 0px;
+}
+#d {
+    border: 2px dashed rgb(17, 145, 17);
+    padding: 13px;
+    margin: 0px;
+}
+#e {
+    border: 2px dashed rgb(17, 145, 17);
+    padding: 13px;
+    margin: 0px;
+}
+#f {
+    border: 2px dashed rgb(71, 22, 207);
+    padding: 13px;
+    margin: 0px;
+}
+#g {
+    border: 2px dashed rgb(71, 22, 207);
+    padding: 13px;
+    margin: 0px;
+}
+#h {
+    border: 2px dashed rgb(71, 22, 207);
+    padding: 13px;
+    margin: 0px;
+}
+#i {
+    border: 2px dashed rgb(71, 22, 207);
+    padding: 13px;
+    margin: 0px;
+}
+#j {
+    border: 2px dashed rgb(71, 22, 207);
+    padding: 13px;
+    margin: 0px;
+}
+#k {
+    border: 2px dashed rgb(230, 10, 21);
+    padding: 13px;
+    margin: 0px;
+}
+#l {
+    border: 2px dashed rgb(230, 10, 21);
+    padding: 13px;
+    margin: 0px;
+}
+#m {
+    border: 2px dashed rgb(230, 10, 21);
+    padding: 13px;
+    margin: 0px;
+}
+#n {
+    border: 2px dashed rgb(230, 10, 21);
+    padding: 13px;
+    margin: 0px;
+}
+#o {
+    border: 5px solid rgb(230, 10, 21);
+    padding: 13px;
+    margin: 0px;
+}

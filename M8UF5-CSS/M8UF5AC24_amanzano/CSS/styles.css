@@ -1,0 +1,24 @@
+ul {
+    color: white;
+    width: 150px;
+    list-style-type: none;
+}
+li {
+    background-color: blue;
+    margin: 5px;
+    padding: 3px 20px;
+}
+li:hover {
+    border-style: solid;
+    border-color: red;
+    padding: 0px 18px;
+}
+li.cap_de_setmana {
+    background-color: green;
+}
+li.cap_de_setmana:hover {
+    background-color: grey;
+    color: black;
+    border-style: solid;
+    border-color: red;
+}

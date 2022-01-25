@@ -1,0 +1,36 @@
+body {
+    padding: 50px;
+}
+header {
+    border: 1px solid red;
+    width: 100%;
+    height: 150px;
+    margin-top: 7px;
+}
+aside {
+    border: 1px solid greenyellow;
+    width: 20%;
+    height: 500px;
+    display: inline-block;
+    margin-top: 7px;
+}
+#content {
+    width: 78%;
+    float: right;
+}
+nav {
+    border: 1px solid skyblue;
+    height: 100px;
+    margin-top: 7px;
+}
+article {
+    border: 1px solid yellow;
+    height: 390px;
+    margin-top: 7px;
+}
+footer {
+    border: 1px solid purple;
+    width: 100%;
+    height: 150px;
+    margin-top: 7px;
+}

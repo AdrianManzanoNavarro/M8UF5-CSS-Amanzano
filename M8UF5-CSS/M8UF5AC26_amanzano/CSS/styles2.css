@@ -1,0 +1,164 @@
+body {
+    background-color: black;
+}
+#all {
+    width: 950px;
+    height: 300px;
+}
+.c1 {
+    float: left;
+    margin-right: 10px;
+}
+#a {
+    background-color: white;
+    width: 90px;
+    height: 130px;
+}
+#b {
+    background-color: white;
+    width: 90px;
+    height: 450px;
+}
+#c {
+    background-color: white;
+    width: 90px;
+    height: 60px ;
+}
+#d {
+    background-color: white;
+    width: 90px;
+    height: 60px ;
+}
+.c2 {
+    float: left;
+    margin-right: 10px;
+}
+#e {
+    background-color: yellow;
+    width: 180px;  
+    height: 748px;  
+}
+.c3 {
+    float: left;
+    margin-right: 10px;
+}
+#f {
+    background-color: blue;
+    width: 180px;
+    height: 180px;
+}
+#g {
+    background-color: yellow;
+    width: 180px;
+    height: 552px;
+}
+.c4 {
+    float: left;
+    margin-right: 10px;
+}
+#h {
+    background-color: red ;
+    width: 180px;
+    height: 376px;
+}
+#i {
+    background-color: red;
+    width: 85px;
+    height: 60px ;
+    float: left;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+#j {
+    background-color: red;
+    width: 85px;
+    height: 60px ;
+    float: right;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+#k {
+    background-color: blue;
+    width: 85px;
+    height: 292px;
+    margin-top: 80px;
+    margin-right: 5px;
+}
+#l {
+    background-color: red ;
+    width: 85px;
+    height: 292px;
+    float: right;
+    margin-left: 5px;
+    margin-top: -292px;   
+}
+.c5 {
+    float: left;
+}
+#m {
+    background-color: yellow;
+    width: 85px;
+    height: 120px;
+    float: left;
+    margin-top: 16px;
+    margin-right: 5px;
+}
+#n {
+    background-color: yellow;
+    width: 85px;
+    height: 55px;
+    float: right;
+    margin-top: 17px;
+    margin-left: -90px;
+}
+#o {
+    background-color: red;
+    width: 85px;
+    height: 55px;
+    float: right;
+    margin-top: 81px;
+    margin-left: 5px;
+}
+#p {
+    background-color: white;
+    width: 85px;
+    height: 55px;
+    float: left;
+    margin-top: 145px;
+    margin-left: -90px;
+}
+.c6 {
+    float: left;
+}
+
+#q {
+    background-color: white;
+    width: 85px;
+    height: 55px;
+    float: right;
+    margin-top: -55px;
+    margin-left: 95px;
+}
+#r {
+    background-color:red ;
+    width: 180px;
+    height: 180px;
+    margin-top: -5px;
+}
+#s {
+    background-color: yellow;
+    width: 85px;
+    height: 363px;
+    margin-top: -5px;
+}
+#t {
+    background-color: yellow;
+    width: 85px;
+    height: 363px;
+    float: right;
+    margin-top: -363px;
+}
+img {
+    margin-top: 50px;
+    size: 300px;
+}

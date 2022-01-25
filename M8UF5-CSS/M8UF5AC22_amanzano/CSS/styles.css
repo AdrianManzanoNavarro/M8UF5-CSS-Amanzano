@@ -1,0 +1,39 @@
+
+a:link {
+    color:red;
+}
+a:visited {
+    color:green
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+html {
+    background-color: yellow;
+}
+h1 {
+    color: orange;width: 20px; text-align: center;
+}
+li {
+    width: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

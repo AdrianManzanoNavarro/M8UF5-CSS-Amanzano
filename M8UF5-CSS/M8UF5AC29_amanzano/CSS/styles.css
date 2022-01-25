@@ -1,0 +1,43 @@
+.board {
+    grid-area: auto;
+    display: grid;
+    padding: 1px;
+    margin-top: 50px;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+.item {
+    border: 2px solid red;
+    margin: 0px;
+    padding: 3px;
+    text-align: center;
+}
+#pati {
+    grid-column: span 5;
+}
+#M7a {
+    grid-row: span 3;
+}
+#M6a {
+    grid-row: span 2;
+}
+#M7b {
+    grid-row: span 3;
+}
+#M11 {
+    grid-row: span 2;
+}
+#M8a {
+    grid-row: span 2;
+}
+#M6b {
+    grid-row: span 3;
+}
+#FOL {
+    grid-row: span 2;
+}
+#a {
+    grid-row: span 2;
+}
+#b {
+    grid-row: span 2;
+}
